@@ -1,4 +1,4 @@
-![logo](/images/logo.png)
+![logo](/static/logo.png)
 
 # Roltek Technology
 
