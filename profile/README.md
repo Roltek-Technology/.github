@@ -45,7 +45,7 @@ FAST IoT Platform designed to power the future of connected devices and smart sy
 - User Management
 - Reporting
 
-[Fast IoT Platform](https://www.roltek.com.tr/en/fast-iot-platform/)
+- [Fast IoT Platform](https://www.roltek.com.tr/en/fast-iot-platform/)
 
 ### Sensors
 
