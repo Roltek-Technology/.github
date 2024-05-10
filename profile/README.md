@@ -1,4 +1,8 @@
-![logo](static/logo.svg)
+<div style="background-color: #f8f9fa; padding: 10px; border-radius: 5px; margin-bottom: 20px;">
+  <p align="center">
+    <img src="/static/logo.svg" alt="Roltek Technology" width="200" />
+    </p>
+</div>
 
 # Roltek Technology
 
